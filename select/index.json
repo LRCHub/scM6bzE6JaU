@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Smoky",
+  "base_artist": "13.3g",
+  "createdAt": "2026-03-26T14:11:56.052880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smoky Mountain Rain",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/01_Smoky_Mountain_Rain_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Smoky Mountain Rain",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/02_Smoky_Mountain_Rain_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Smoky Hands 1",
+      "artist": "Throwing Muses",
+      "has_synced": true,
+      "path": "select/03_Smoky_Hands_1_Throwing_Muses.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Smoky Mountain Rain",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/04_Smoky_Mountain_Rain_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On Top of Old Smoky",
+      "artist": "The Weavers",
+      "has_synced": true,
+      "path": "select/05_On_Top_of_Old_Smoky_The_Weavers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Smoky Mountain Christmas",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/06_A_Smoky_Mountain_Christmas_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Smoky Places",
+      "artist": "The Corsairs",
+      "has_synced": false,
+      "path": "select/07_Smoky_Places_The_Corsairs.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Besos Al Aire (feat. América Sierra & Smoky)",
+      "artist": "3BallMTY",
+      "has_synced": true,
+      "path": "select/08_Besos_Al_Aire_(feat._América_Sierra_&_Smoky)_3BallMTY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mala Mujer (feat. Horacio Palencia & Smoky)",
+      "artist": "3BallMTY",
+      "has_synced": true,
+      "path": "select/09_Mala_Mujer_(feat._Horacio_Palencia_&_Smoky)_3BallMTY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Solos Tú Y Yo (feat. Smoky)",
+      "artist": "3BallMTY",
+      "has_synced": true,
+      "path": "select/10_Solos_Tú_Y_Yo_(feat._Smoky)_3BallMTY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Te Digo Bye Bye (feat. Smoky)",
+      "artist": "3BallMTY",
+      "has_synced": true,
+      "path": "select/11_Te_Digo_Bye_Bye_(feat._Smoky)_3BallMTY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Smoky Eye",
+      "artist": "Jaguar Knight",
+      "has_synced": false,
+      "path": "select/12_Smoky_Eye_Jaguar_Knight.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Smoky Joe's Café",
+      "artist": "C.C. Catch",
+      "has_synced": false,
+      "path": "select/13_Smoky_Joe's_Café_C.C._Catch.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Smoky",
+      "artist": "13.3g",
+      "has_synced": false,
+      "path": "select/pl_01_Smoky_13.3g.txt"
+    }
+  ]
+}
